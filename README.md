@@ -44,7 +44,7 @@ brew install mackup
 
 # 恢复
 cd ~
-git clone https://github.com/zcjava/dotfiles.git
+git clone https://github.com/amsz/dotfiles.git
 ln -s ~/dotfiles/Mackup/.mackup.cfg .mackup.cfg
 ln -s ~/dotfiles/Mackup/.mackup .mackup
 mackup restore
