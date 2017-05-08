@@ -28,5 +28,17 @@ ln -s ~/dotfiles/Mackup/.mackup .mackup
 mackup restore
 ```
 
+#### Shadowsocks
+
+```shell
+# ss
+brew install shadowsocks-libev
+
+# ssr
+./install_ssr.sh
+# 运行 ssr
+ssr
+```
+
 
 
