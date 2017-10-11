@@ -85,5 +85,11 @@ brew cask install android-sdk android-studio
 brew cask install alfred manico keepingyouawake sogouinput eudic evernote google-chrome flash-player kindle neteasemusic
 ```
 
+#### 离线包
+
+```
+https://www.google.com/chrome/browser/thankyou.html?standalone=1&platform=mac&installdataindex=defaultbrowser
+https://www.dropbox.com/downloading?src=index&full=1
+```
 
 
